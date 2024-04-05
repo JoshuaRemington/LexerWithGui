@@ -1,7 +1,7 @@
 # Lexical Analysis for TinyPIe
 Lexical Analysis for TinyPIe is a Python project that demonstrates lexical analysis and parsing techniques using the Python Tkinter library for GUI.
 
-https://github.com/JoshuaRemington/LexerWithGui/tree/main#introduction
+![image](https://github.com/JoshuaRemington/LexerWithGui/assets/107597790/d52e017d-6894-4569-9e9b-c24c89fdbf73)
 
 ## Table of Contents
 - [Introduction](#introduction)
