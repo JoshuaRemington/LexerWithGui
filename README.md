@@ -1,6 +1,8 @@
 # Lexical Analysis for TinyPIe
 Lexical Analysis for TinyPIe is a Python project that demonstrates lexical analysis and parsing techniques using the Python Tkinter library for GUI.
 
+https://github.com/JoshuaRemington/LexerWithGui/tree/main#introduction
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -20,7 +22,7 @@ Supports basic language constructs like if statements, print statements, float a
 
 ### Installation
 Clone the repository to your local machine:
-git clone https://github.com/your-username/lexical-analysis-tinypie.git
+git clone https://github.com/JoshuaRemington/LexerWithGui
 Navigate to the project directory:
 cd lexical-analysis-tinypie
 Install the required dependencies: 
